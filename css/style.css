@@ -5,3 +5,15 @@ body {
 .card {
   background: darkkhaki;
 }
+
+.feedback {
+  display: none;
+}
+
+.results {
+  display: none;
+}
+
+.showItem {
+  display: block;
+}
